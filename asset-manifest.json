@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tdb-tube/static/css/main.7064deb2.css",
+    "main.js": "/tdb-tube/static/js/main.3dbf7847.js",
+    "index.html": "/tdb-tube/index.html",
+    "main.7064deb2.css.map": "/tdb-tube/static/css/main.7064deb2.css.map",
+    "main.3dbf7847.js.map": "/tdb-tube/static/js/main.3dbf7847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.3dbf7847.js"
+  ]
+}
