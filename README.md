@@ -24,7 +24,7 @@ once installed you can just run npm start in the command line to start the serve
   
   ## [Links](#table-of-contents)
 
-  * [Repository]https://github.com/Thedanbrown/tdb-tube)
+  * [Repository](https://github.com/Thedanbrown/tdb-tube)
   * [Deployed Site](https://thedanbrown.github.io/tdb-tube/)
   ![Deployed site image](./public/TDBtube.png)
 
