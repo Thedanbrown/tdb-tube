@@ -12,7 +12,7 @@
   
   ## [Description](#table-of-contents)
 
- This repository was used to help learn the use of REACT, create-react-app, and materialUI to build a clone of youtube using the Youtube rapid apiV3. 
+ This repository was used to help learn the use of REACT, create-react-app, and materialUI to build a clone of youtube using the Youtube rapid apiV3. Its fully responsive and has channel and individual video pages.
 
 
   ## [Installation](#table-of-contents)
